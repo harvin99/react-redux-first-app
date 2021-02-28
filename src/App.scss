@@ -1,0 +1,20 @@
+@import "_app-common-variable";
+
+.App {
+  text-align: center;
+  font-family: $font-family;
+  font-weight: 400;
+}
+
+.btn {
+  width: 150px;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #ddd;
+  outline: none;
+  border: none;
+  margin: 0px 10px;
+}
+.text {
+  font-weight: 200;
+}
